@@ -221,7 +221,7 @@
                 "user_timed_out": "User is timed out for {{time}}.",
                 "bridged": "Message was sent on another platform",
                 "team": "Official Communication",
-                "new_to_revolt": "New to Kimani Life",
+                "new_to_revolt": "New to Kimani Club",
                 "new_to_server": "New to this server",
                 "reactions": {
                     "others_reacted": "{{userlist}} and {{count}} others reacted",
@@ -306,7 +306,7 @@
                 },
                 "invite": {
                     "title": "Invite",
-                    "description": "Invite friends to Kimani Life",
+                    "description": "Invite friends to Kimani Club",
                     "type": "Type of Invite",
                     "left": "Invites Left",
                     "method": {
@@ -450,7 +450,7 @@
                 "feedback": {
                     "title": "Feedback",
                     "suggest": "Submit feature suggestion",
-                    "suggest_desc": "Suggest new Kimani Life features on GitHub discussions.",
+                    "suggest_desc": "Suggest new Kimani Club features on GitHub discussions.",
                     "issue": "Create a new issue",
                     "issue_desc": "To help us more easily find and assess issues, you can create an issue on GitHub.",
                     "bug": "Bug Tracker",
@@ -666,7 +666,7 @@
                     "title": "Are you sure you want to clear your sessions?"
                 },
                 "changelogs": {
-                    "description": "Read about updates of Kimani Life.",
+                    "description": "Read about updates of Kimani Club.",
                     "older": "View older updates",
                     "title": "Changelogs"
                 },
@@ -708,7 +708,7 @@
                         "Underage": "This user is not old enough to have an account"
                     },
                     "reported": "Reported",
-                    "thank_you": "Thank you for helping to keep Kimani Life safe. We will review your report as soon as possible.",
+                    "thank_you": "Thank you for helping to keep Kimani Club safe. We will review your report as soon as possible.",
                     "block_user": "Would you like to block this user?"
                 }
             },
@@ -752,7 +752,7 @@
             "requires_online": "You need to be online to view this.",
             "invite": {
                 "invited_by": "Invited by {{user}}",
-                "login": "Login to Kimani Life",
+                "login": "Login to Kimani Club",
                 "accept": "Accept Invite",
                 "user_count": "{{member_count}} users",
                 "invalid": "Invalid invite!",
@@ -826,8 +826,8 @@
         "home": {
             "join-testers": "Join the testers server",
             "goto-testers": "Go to the testers server",
-            "donate": "Donate to Kimani Life",
-            "feedback": "Give feedback on Kimani Life",
+            "donate": "Donate to Kimani Club",
+            "feedback": "Give feedback on Kimani Club",
             "settings": "Open settings",
             "settings-tooltip": "You can also right-click the user icon in the top left, or left click it if you're already home.",
             "social": "Find servers & bots",
@@ -836,7 +836,7 @@
             "goto-testers_desc": "You can report issues and discuss improvements with us directly here.",
             "donate_desc": "Support the project by donating - thank you!",
             "feedback_desc": "Let us know how we can improve our app by giving us feedback.",
-            "discover": "Discover Kimani Life",
+            "discover": "Discover Kimani Club",
             "discover_desc": "Find a community based on your hobbies or interests.",
             "group": "Create a group",
             "group_desc": "Invite all of your friends, some cool bots, and throw a big party."

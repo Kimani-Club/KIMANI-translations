@@ -215,7 +215,7 @@
                 "user_timed_out": "Masz timeout na {{time}}.",
                 "bridged": "Wiadomość została wysłana na innej platformie",
                 "team": "Oficjalna komunikacja",
-                "new_to_revolt": "Nowy w Kimani Life",
+                "new_to_revolt": "Nowy w Kimani Club",
                 "new_to_server": "Nowy na tym serwerze",
                 "reactions": {
                     "others_reacted": "{{userlist}} i {{count}} innych zareagowało",
@@ -300,7 +300,7 @@
                 },
                 "invite": {
                     "title": "Zaproś",
-                    "description": "Zaproś znajomych do Kimani Life"
+                    "description": "Zaproś znajomych do Kimani Club"
                 },
                 "audio": {
                     "title": "Ustawienia głosu",
@@ -436,7 +436,7 @@
                 "feedback": {
                     "title": "Opinie",
                     "suggest": "Prześlij sugestię funkcji",
-                    "suggest_desc": "Sugeruj nowe funkcje Kimani Life w dyskusjach na GitHubie.",
+                    "suggest_desc": "Sugeruj nowe funkcje Kimani Club w dyskusjach na GitHubie.",
                     "issue": "Utwórz nowy problem",
                     "issue_desc": "Aby pomóc nam łatwiej znaleźć i ocenić problemy, możesz utworzyć problem na GitHubie.",
                     "bug": "Śledzenie błędów",
@@ -652,7 +652,7 @@
                     "title": "Czy na pewno chcesz wyczyścić swoje sesje?"
                 },
                 "changelogs": {
-                    "description": "Przeczytaj o aktualizacjach Kimani Life.",
+                    "description": "Przeczytaj o aktualizacjach Kimani Club.",
                     "older": "Wyświetl starsze aktualizacje",
                     "title": "Historia zmian"
                 },
@@ -694,7 +694,7 @@
                         "Underage": "Ten użytkownik nie jest wystarczająco dorosły, aby mieć konto"
                     },
                     "reported": "Zgłoszono",
-                    "thank_you": "Dziękujemy za pomoc w utrzymaniu bezpieczeństwa Kimani Life. Rozpatrzymy Twoje zgłoszenie tak szybko, jak to możliwe.",
+                    "thank_you": "Dziękujemy za pomoc w utrzymaniu bezpieczeństwa Kimani Club. Rozpatrzymy Twoje zgłoszenie tak szybko, jak to możliwe.",
                     "block_user": "Czy chcesz zablokować tego użytkownika?"
                 }
             },
@@ -738,7 +738,7 @@
             "requires_online": "Musisz być online, aby to wyświetlić.",
             "invite": {
                 "invited_by": "Zaproszony przez {{user}}",
-                "login": "Zaloguj się do Kimani Life",
+                "login": "Zaloguj się do Kimani Club",
                 "accept": "Akceptuj zaproszenie",
                 "user_count": "{{member_count}} użytkowników",
                 "invalid": "Nieprawidłowe zaproszenie!",
@@ -812,8 +812,8 @@
         "home": {
             "join-testers": "Dołącz do serwera testerów",
             "goto-testers": "Przejdź do serwera testerów",
-            "donate": "Wspomóż Kimani Life",
-            "feedback": "Prześlij opinię o Kimani Life",
+            "donate": "Wspomóż Kimani Club",
+            "feedback": "Prześlij opinię o Kimani Club",
             "settings": "Otwórz ustawienia",
             "settings-tooltip": "Możesz także kliknąć prawym przyciskiem myszy ikonę użytkownika w lewym górnym rogu lub kliknąć lewym przyciskiem myszy, jeśli jesteś już na stronie głównej.",
             "social": "Znajdź serwery i boty",
@@ -822,7 +822,7 @@
             "goto-testers_desc": "Możesz tutaj bezpośrednio zgłaszać problemy i omawiać z nami ulepszenia.",
             "donate_desc": "Wspomóż projekt, przekazując darowiznę - dziękujemy!",
             "feedback_desc": "Daj nam znać, jak możemy ulepszyć naszą aplikację, przesyłając nam opinię.",
-            "discover": "Odkryj Kimani Life",
+            "discover": "Odkryj Kimani Club",
             "discover_desc": "Znajdź społeczność opartą na swoich zainteresowaniach lub hobby.",
             "group": "Utwórz grupę",
             "group_desc": "Zaproś wszystkich swoich znajomych, kilka fajnych botów i zrób wielką imprezę."
