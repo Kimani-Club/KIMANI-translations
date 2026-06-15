@@ -221,7 +221,7 @@
                 "user_timed_out": "Benutzer ist für {{time}} im Timeout.",
                 "bridged": "Nachricht wurde auf einer anderen Plattform gesendet",
                 "team": "Offizielle Kommunikation",
-                "new_to_revolt": "Neu bei Kimani Life",
+                "new_to_revolt": "Neu bei Kimani Club",
                 "new_to_server": "Neu auf diesem Server",
                 "reactions": {
                     "others_reacted": "{{userlist}} und {{count}} weitere haben reagiert",
@@ -306,7 +306,7 @@
                 },
                 "invite": {
                     "title": "Einladen",
-                    "description": "Freunde zu Kimani Life einladen",
+                    "description": "Freunde zu Kimani Club einladen",
                     "type": "Art der Einladung",
                     "left": "Verbleibende Einladungen",
                     "method": {
@@ -450,7 +450,7 @@
                 "feedback": {
                     "title": "Feedback",
                     "suggest": "Funktion vorschlagen",
-                    "suggest_desc": "Schlagen Sie neue Funktionen für Kimani Life auf GitHub-Diskussionen vor.",
+                    "suggest_desc": "Schlagen Sie neue Funktionen für Kimani Club auf GitHub-Diskussionen vor.",
                     "issue": "Neues Problem erstellen",
                     "issue_desc": "Um uns zu helfen, Probleme leichter zu finden und zu bewerten, können Sie ein Problem auf GitHub erstellen.",
                     "bug": "Bug-Tracker",
@@ -666,7 +666,7 @@
                     "title": "Sind Sie sicher, dass Sie Ihre Sitzungen löschen möchten?"
                 },
                 "changelogs": {
-                    "description": "Lesen Sie über die Updates von Kimani Life.",
+                    "description": "Lesen Sie über die Updates von Kimani Club.",
                     "older": "Ältere Updates anzeigen",
                     "title": "Änderungsprotokolle"
                 },
@@ -708,7 +708,7 @@
                         "Underage": "Dieser Benutzer ist nicht alt genug für ein Konto"
                     },
                     "reported": "Gemeldet",
-                    "thank_you": "Danke, dass Sie helfen, Kimani Life sicher zu halten. Wir werden Ihre Meldung so schnell wie möglich überprüfen.",
+                    "thank_you": "Danke, dass Sie helfen, Kimani Club sicher zu halten. Wir werden Ihre Meldung so schnell wie möglich überprüfen.",
                     "block_user": "Möchten Sie diesen Benutzer blockieren?"
                 }
             },
@@ -752,7 +752,7 @@
             "requires_online": "Sie müssen online sein, um dies anzuzeigen.",
             "invite": {
                 "invited_by": "Eingeladen von {{user}}",
-                "login": "Bei Kimani Life anmelden",
+                "login": "Bei Kimani Club anmelden",
                 "accept": "Einladung annehmen",
                 "user_count": "{{member_count}} Benutzer",
                 "invalid": "Ungültige Einladung!",
@@ -826,8 +826,8 @@
         "home": {
             "join-testers": "Dem Tester-Server beitreten",
             "goto-testers": "Zum Tester-Server gehen",
-            "donate": "An Kimani Life spenden",
-            "feedback": "Feedback zu Kimani Life geben",
+            "donate": "An Kimani Club spenden",
+            "feedback": "Feedback zu Kimani Club geben",
             "settings": "Einstellungen öffnen",
             "settings-tooltip": "Sie können auch mit der rechten Maustaste auf das Benutzersymbol oben links klicken oder mit der linken Maustaste, wenn Sie bereits auf der Startseite sind.",
             "social": "Server & Bots finden",
@@ -836,7 +836,7 @@
             "goto-testers_desc": "Sie können hier direkt Probleme melden und Verbesserungen mit uns besprechen.",
             "donate_desc": "Unterstützen Sie das Projekt durch eine Spende - danke!",
             "feedback_desc": "Lassen Sie uns wissen, wie wir unsere App verbessern können, indem Sie uns Feedback geben.",
-            "discover": "Kimani Life entdecken",
+            "discover": "Kimani Club entdecken",
             "discover_desc": "Finden Sie eine Community basierend auf Ihren Hobbys oder Interessen.",
             "group": "Gruppe erstellen",
             "group_desc": "Laden Sie alle Ihre Freunde ein, ein paar coole Bots, und veranstalten Sie eine große Party."

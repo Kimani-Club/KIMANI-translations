@@ -221,7 +221,7 @@
                 "user_timed_out": "L'utente è in timeout per {{time}}.",
                 "bridged": "Il messaggio è stato inviato su un'altra piattaforma",
                 "team": "Comunicazione ufficiale",
-                "new_to_revolt": "Nuovo su Kimani Life",
+                "new_to_revolt": "Nuovo su Kimani Club",
                 "new_to_server": "Nuovo su questo server",
                 "reactions": {
                     "others_reacted": "{{userlist}} e altri {{count}} hanno reagito",
@@ -306,7 +306,7 @@
                 },
                 "invite": {
                     "title": "Invita",
-                    "description": "Invita amici su Kimani Life",
+                    "description": "Invita amici su Kimani Club",
                     "type": "Tipo di invito",
                     "left": "Inviti rimasti",
                     "method": {
@@ -450,7 +450,7 @@
                 "feedback": {
                     "title": "Feedback",
                     "suggest": "Suggerisci una funzionalità",
-                    "suggest_desc": "Suggerisci nuove funzionalità per Kimani Life nelle discussioni di GitHub.",
+                    "suggest_desc": "Suggerisci nuove funzionalità per Kimani Club nelle discussioni di GitHub.",
                     "issue": "Crea una nuova segnalazione",
                     "issue_desc": "Per aiutarci a trovare e valutare più facilmente i problemi, puoi creare una segnalazione su GitHub.",
                     "bug": "Tracciatore di bug",
@@ -666,7 +666,7 @@
                     "title": "Sei sicuro di voler cancellare le tue sessioni?"
                 },
                 "changelogs": {
-                    "description": "Leggi gli aggiornamenti di Kimani Life.",
+                    "description": "Leggi gli aggiornamenti di Kimani Club.",
                     "older": "Visualizza aggiornamenti precedenti",
                     "title": "Changelog"
                 },
@@ -708,7 +708,7 @@
                         "Underage": "Questo utente non ha l'età per avere un account"
                     },
                     "reported": "Segnalato",
-                    "thank_you": "Grazie per aver contribuito a mantenere Kimani Life sicuro. Esamineremo la tua segnalazione il prima possibile.",
+                    "thank_you": "Grazie per aver contribuito a mantenere Kimani Club sicuro. Esamineremo la tua segnalazione il prima possibile.",
                     "block_user": "Vuoi bloccare questo utente?"
                 }
             },
@@ -752,7 +752,7 @@
             "requires_online": "Devi essere online per visualizzare questo.",
             "invite": {
                 "invited_by": "Invitato da {{user}}",
-                "login": "Accedi a Kimani Life",
+                "login": "Accedi a Kimani Club",
                 "accept": "Accetta invito",
                 "user_count": "{{member_count}} utenti",
                 "invalid": "Invito non valido!",
@@ -826,8 +826,8 @@
         "home": {
             "join-testers": "Unisciti al server dei tester",
             "goto-testers": "Vai al server dei tester",
-            "donate": "Dona a Kimani Life",
-            "feedback": "Dai un feedback su Kimani Life",
+            "donate": "Dona a Kimani Club",
+            "feedback": "Dai un feedback su Kimani Club",
             "settings": "Apri impostazioni",
             "settings-tooltip": "Puoi anche fare clic con il pulsante destro del mouse sull'icona dell'utente in alto a sinistra, o con il sinistro se sei già a casa.",
             "social": "Trova server e bot",
@@ -836,7 +836,7 @@
             "goto-testers_desc": "Puoi segnalare problemi e discutere miglioramenti direttamente con noi qui.",
             "donate_desc": "Sostieni il progetto con una donazione - grazie!",
             "feedback_desc": "Facci sapere come possiamo migliorare la nostra app dandoci il tuo feedback.",
-            "discover": "Scopri Kimani Life",
+            "discover": "Scopri Kimani Club",
             "discover_desc": "Trova una community basata sui tuoi hobby o interessi.",
             "group": "Crea un gruppo",
             "group_desc": "Invita tutti i tuoi amici, alcuni bot fantastici e organizza una grande festa."
